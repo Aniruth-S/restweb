@@ -602,7 +602,6 @@ Publish the website in the given URL.
 
 
 ```
-
 ## OUTPUT:
 ![alt text](<Screenshot (36).png>)
 ![alt text](<Screenshot (37).png>)
